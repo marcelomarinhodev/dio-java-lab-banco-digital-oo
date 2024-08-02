@@ -1,3 +1,7 @@
+package conta;
+
+import cliente.Cliente;
+import conta.interfaces.IConta;
 
 public abstract class Conta implements IConta {
 	

@@ -1,3 +1,4 @@
+package conta.interfaces;
 
 public interface IConta {
 	
